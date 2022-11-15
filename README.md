@@ -1,6 +1,10 @@
 # navigation_base_app - flutter
 
-A beauitifull customized nested navigation demp project.
+A beauitifull customized nested animation in screen navigation.
+
+✔️ Sound NullSafety
+
+## Gif
 
 <p align="center">
   <img 
