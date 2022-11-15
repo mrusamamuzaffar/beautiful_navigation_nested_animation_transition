@@ -4,7 +4,7 @@ A beauitifull customized nested animation in screen navigation.
 
 ✔️ Sound NullSafety
 
-## Gif
+## GIF
 
 <p align="center">
   <img 
